@@ -1,0 +1,44 @@
+.screen {
+  padding: 25px;
+}
+
+.bottom-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 760px;
+}
+
+input {
+  width: 100%;
+  padding: 14px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.primary-btn {
+  background: #6c25ff;
+  color: white;
+  margin-top: 20px;
+}
+
+.secondary-btn {
+  background: #cebafb;
+  margin-top: 10px;
+}
+
+.profile {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
