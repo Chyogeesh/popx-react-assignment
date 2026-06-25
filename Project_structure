@@ -1,0 +1,24 @@
+popx-app/
+│
+├── public/
+│   └── profile.png
+│
+├── src/
+│   ├── components/
+│   │   ├── InputField.jsx
+│   │   ├── Button.jsx
+│   │   └── Header.jsx
+│   │
+│   ├── pages/
+│   │   ├── Welcome.jsx
+│   │   ├── Login.jsx
+│   │   ├── Register.jsx
+│   │   └── Account.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── package.json
+└── vite.config.js
