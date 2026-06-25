@@ -1,0 +1,5 @@
+npm create vite@latest popx-app -- --template react
+cd popx-app
+
+npm install
+npm install react-router-dom
